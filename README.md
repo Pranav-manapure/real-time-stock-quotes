@@ -130,6 +130,29 @@ real-time-stock-quotes/
 
 ## Screenshots
 
+- Screenshort 1:
+
+  ![image](https://github.com/user-attachments/assets/550c29a7-9f5a-4f5c-bce3-4c73897adcce)
+
+- Screenshort 2: Database Structure
+
+  ![image](https://github.com/user-attachments/assets/02ea11fe-0486-4dc2-8603-67794b65f384)
+
+- Screenshort 3: After hitting the url (2 times) : http://localhost:8080/api/stock-quotes/quote/RELIANCE.BSE
+
+  ![image](https://github.com/user-attachments/assets/36f60770-74d9-4753-9fdc-02556a4f44b1)
+  
+  ![image](https://github.com/user-attachments/assets/676a7edc-f24d-4b3c-8dfa-dd6b7f3460ea)
+
+  ![image](https://github.com/user-attachments/assets/75762717-0f8e-4f2e-b1dc-31b602792e70)
+
+- Screenshort 4: After hitting the url (2 times) : [http://localhost:8080/api/stock-quotes/quote/RELIANCE.BSE](http://localhost:8080/api/stock-quotes/batch-quotes?symbols=RELIANCE.BSE,TCS.BSE,INFY.BSE)
+
+  ![image](https://github.com/user-attachments/assets/f901fddd-3a2f-4a00-9bf7-8c67808b3ace)
+
+  ![image](https://github.com/user-attachments/assets/8504c19f-350a-4002-b166-8adf64245999)
+
+  ![image](https://github.com/user-attachments/assets/10f9aad6-f53e-46d9-a054-60f2a83a12c8)
 
 
 ---
