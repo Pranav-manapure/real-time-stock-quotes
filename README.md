@@ -181,7 +181,7 @@ For any questions, suggestions, or collaboration ideas, you can reach out to:
 
 - **Name**: Pranav Sanjay Manapure  
 - **Email**: [manapurepranav03@gmail.com](mailto:manapurepranav03@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/pranav-sanjay-manapure](https://www.linkedin.com/in/pranav-sanjay-manapure)
+- **LinkedIn**: [linkedin.com/in/pranav-manapure](https://www.linkedin.com/in/pranav-manapure)
 
 ---
 
